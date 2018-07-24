@@ -1,0 +1,4 @@
+How might using version control make you more confident to make changes that could break something?
+
+It just made esay to compare different versions/commits which inturn letting out the fear of trying new code to enhance the project. With version-control there's no need to worry about the mystic errors ;)
+ 
