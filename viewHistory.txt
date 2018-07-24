@@ -1,0 +1,3 @@
+How can you use the commands git log and git diff to view the history of files?
+
+"git log" helps us to know what are the commits that have been added so far and provides with the id's of each individual commits those are useful for finding differences with "git diff"..

@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+One can use the existing folder/file to initialize a repository or could create a folder and initialize repository and add files later.
+
+When we initialize a git-repository, the folder/ file becomes a repository and one can see (master) in the end of the directory where a repository is initialized.
+
+This doesn't mean we can execute git log to see the changes because we never created a commit.
+
+Hence learning how to cmmmit is the next major step..

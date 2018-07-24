@@ -1,0 +1,5 @@
+Lesson-1 Finding differences between two versions of larger files!
+
+How did viewing a diff between two versions help you spot the bug?
+
+The old code served me as a reference for comparing the newer ones and through comparision I believe one can easily find where's everything going wrong and make required changes!.
