@@ -2,4 +2,4 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 It  helps us to add all the files those are logically related to the changes you did so far and then commit them as a single commit rather than a saperate individual commits. 
 
-For Testing!!
+For Testing!!!
