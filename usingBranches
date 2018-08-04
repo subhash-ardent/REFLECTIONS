@@ -1,0 +1,5 @@
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are created whenever you are trying out new features to be added to the software of which you are not sure would work in the end.
+
+If it works we can merge experimental branch and master branch through merging!!
