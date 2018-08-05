@@ -1,0 +1,8 @@
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+clone create a copy of the repository on the git-hub to one's local machine
+
+forks create a copy of the repository on the git-hub to one's git-hub account on its own servers. (i'll first fork and then clone somebody's repository and work it as my own, no changes can be made to the previous code directly.)
+
+Branches are made to make revolutionry changes to the code which may not work and later add those to main code once if they were succesful.
+
