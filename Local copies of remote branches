@@ -1,0 +1,3 @@
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So that you can know what are the changes made by the contributors directly on the git-hub while pulling down the code. ultimately helps to resolves conflicts and to merge the useful changes
